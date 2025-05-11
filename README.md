@@ -1,2 +1,3 @@
-# sistema-agendamentos-flask
-Sistema simples de agendamentos com armazenamento em memória usand Flask
+# Projeto 03 - Site de Agendamentos com Flask
+
+Permite registrar agendamentos de forma simples.
